@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c28caf41ca16c56429792a2cb4d1486a, type: 3}
+  m_Name: AngelStats
+  m_EditorClassIdentifier: 
+  enemyName: AngekOdDeath
+  maxHP: 2000
+  attackPower: 10
+  moveSpeed: 5
+  RunSpeed: 3
+  RotateSpeed: 270
+  detectionRange: 20
+  detectionAngle: 20
+  attackRange: 4
+  attackCooldown: 5
+  magicAttackBackRange: 10
+  targetMask:
+    serializedVersion: 2
+    m_Bits: 512
+  obstacleMask:
+    serializedVersion: 2
+    m_Bits: 512
+  spacing: 5
+  isBoss: 1
+  enemyType: 0
+  enemyExp: 1000

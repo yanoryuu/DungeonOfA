@@ -1,0 +1,26 @@
+fileFormatVersion: 2
+guid: 8f35c48ab6e34664ba18b85bf17dc974
+timeCreated: 1466451767
+licenseType: Store
+TrueTypeFontImporter:
+  serializedVersion: 3
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 1
+  characterPadding: 0
+  includeFontData: 1
+  fontNames: []
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 65687
+  packageName: Fantasy Loading Bars 2
+  packageVersion: 1.0
+  assetPath: Assets/Fantasy Loading Bars 2/Fonts/Iskoola Pota - Regular.ttf
+  uploadId: 123871

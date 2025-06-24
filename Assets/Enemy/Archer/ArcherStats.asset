@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c28caf41ca16c56429792a2cb4d1486a, type: 3}
+  m_Name: ArcherStats
+  m_EditorClassIdentifier: 
+  enemyName: Archer
+  maxHP: 50
+  attackPower: 10
+  moveSpeed: 3
+  RunSpeed: 4
+  RotateSpeed: 270
+  detectionRange: 30
+  detectionAngle: 270
+  attackRange: 15
+  attackCooldown: 3
+  magicAttackBackRange: 10
+  targetMask:
+    serializedVersion: 2
+    m_Bits: 512
+  obstacleMask:
+    serializedVersion: 2
+    m_Bits: 512
+  spacing: 10
+  isBoss: 0
+  enemyType: 0
+  enemyExp: 50
